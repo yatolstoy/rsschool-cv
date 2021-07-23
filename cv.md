@@ -44,10 +44,16 @@ I know the basics:
 12) VS Code
 
 Code examples:
+https://github.com/yatolstoy/vm-bot-course
+https://github.com/yatolstoy/vm-crmApp
+https://github.com/yatolstoy/vm-blog
+https://github.com/yatolstoy/excel
 
+https://www.codewars.com/kata/546f922b54af40e1e90001da
+https://www.codewars.com/kata/reviews/55f8abdcb692958d4800000f/groups/60aea914fcb6fc00019f430d
 
 Courses:
-Vue.js. Comlete Guide for web-development - Vladilen Minin – udemy
+Vue.js. Complete Guide for web-development - Vladilen Minin – udemy
 JavaScript. Become Senior Frontend developer – Vladilen Minin
 Practice Vue JS - creating CRM system – Vladilen Minin
 Site builder on clean JavaScript – Vladilen Minin
