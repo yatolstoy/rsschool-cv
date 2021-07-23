@@ -32,11 +32,22 @@ So, I often decide **automatization tasks** in travel agency. That just a some e
 
 ## Skills:
 I know the basics:
-| Javascript | PHP | Node.js | Google Script |
-|------------- | ------------- |  ------------- |  ------------- |
-|Html 5 | CSS 3 | Node.js | Nuxt.js|
-| Firebase | Express | REST API | Websocket |
-| Terminal | Git | VS Code | Docker |
+* Javascript 
+* PHP 
+* Node.js 
+* Google Script
+* Html 5
+* CSS 3
+* Node.js
+* Nuxt.js
+* Firebase
+* Express
+* REST API
+* Websocket
+* Terminal
+* Git
+* VS Code
+* Docker
 
 ## Code examples:
 [Fast course of Frontend elements](https://github.com/yatolstoy/vm-bot-course)  
