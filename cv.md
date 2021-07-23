@@ -1,12 +1,14 @@
-Name: Yaroslav
-Last name: Tolstoy
-E-mail: rastorop92@yandex.ru
+# CV
+**Name:** Yaroslav
+**Last name:** Tolstoy
+**E-mail:** rastorop92@yandex.ru
+**Telegram:** @yatolstoy
 
-Summary:
-I like hard working. I want to become hight level specialist in JavaScript and Frontend technologies.
-It so important for me, because:
-1) I want to have a decent standard of living for me and my family.
-2) I want to contribute to freeing people from routine. People deserve to be engaged in creatively and creation.
+## Summary:
+I like **hard working**. I want to become hight level specialist in JavaScript and Frontend technologies.
+It so **important** for me, because:
+1. I want to have a decent standard of living for me and my family.
+2. I want to contribute to freeing people from routine. People deserve to be engaged in creatively and creation.
 
 I like take online courses and improve my skills.
 
@@ -21,45 +23,46 @@ So, I often decide automatization tasks in travel agency. That just a some examp
 
 2. Write scripts on JS for client-side automatization, like:
 2.1. Prohibition editing transactions at the stage
-2.2. Show price lead in another valutes (USD, EUR, BYN, RUB)
+2.2. Show price lead in another valuta (USD, EUR, BYN, RUB)
 2.3. Make button, what get lead and take it some manager.
 
 3. Write scripts for Google spreadsheets for display statistics:
 3.1. By sales
 3.2. Expenses by marketing channels
 
-Skills:
+## Skills:
 I know the basics:
-1) Javascript
-2) PHP
-3) Google Script
-4) Firebase
-5) Html 5
-6) CSS 3
-7) Node.js
-8) Nuxt.js
-9) REST API
-10) Websocket
-11) Git
-12) VS Code
+* Javascript
+* PHP
+* Google Script
+* Firebase
+* Html 5
+* CSS 3
+* Node.js
+* Nuxt.js
+* REST API
+* Websocket
+* Git
+* VS Code
+* AMOCRM API
 
-Code examples:
-https://github.com/yatolstoy/vm-bot-course
-https://github.com/yatolstoy/vm-crmApp
-https://github.com/yatolstoy/vm-blog
-https://github.com/yatolstoy/excel
+## Code examples:
+[Fast course of Frontend elements](https://github.com/yatolstoy/vm-bot-course)
+[Create Vue.js CRM app](https://github.com/yatolstoy/vm-crmApp)
+[Create Nuxt.js Blog](https://github.com/yatolstoy/vm-blog)
+[Create Excel and first version framework](https://github.com/yatolstoy/excel)
 
-https://www.codewars.com/kata/546f922b54af40e1e90001da
-https://www.codewars.com/kata/reviews/55f8abdcb692958d4800000f/groups/60aea914fcb6fc00019f430d
+[Some code on codewars](https://www.codewars.com/kata/546f922b54af40e1e90001da)
+[Codewars kata](https://www.codewars.com/kata/reviews/55f8abdcb692958d4800000f/groups/60aea914fcb6fc00019f430d)
 
-Courses:
-Vue.js. Complete Guide for web-development - Vladilen Minin – udemy
-JavaScript. Become Senior Frontend developer – Vladilen Minin
-Practice Vue JS - creating CRM system – Vladilen Minin
-Site builder on clean JavaScript – Vladilen Minin
-English course "Pre-intermediate" - Streamline
+## Courses:
+* Vue.js. Complete Guide for web-development - Vladilen Minin – udemy
+* JavaScript. Become Senior Frontend developer – Vladilen Minin
+* Practice Vue JS - creating CRM system – Vladilen Minin
+* Site builder on clean JavaScript – Vladilen Minin
+* English course "Pre-intermediate" - Streamline
 
-English level:
+## English level:
 I finished Streamline English course "Pre Intermediate" in 2020.
 In actually, I use English in my life rarely.
-I wanna learn English by Internet courses.
+I am going to study English, if it necessary use it every day
