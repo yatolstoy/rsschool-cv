@@ -1,0 +1,1 @@
+[Link on my CV](https://yatolstoy.github.io/rsschool-cv/cv)
