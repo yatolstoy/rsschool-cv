@@ -1,8 +1,9 @@
 # CV
-**Name:** Yaroslav
-**Last name:** Tolstoy
-**E-mail:** rastorop92@yandex.ru
-**Telegram:** @yatolstoy
+**Name:** Yaroslav  
+**Last name:** Tolstoy  
+
+**E-mail:** rastorop92@yandex.ru  
+**Telegram:** @yatolstoy  
 
 ## Summary:
 I like **hard working**. I want to become hight level specialist in JavaScript and Frontend technologies.
