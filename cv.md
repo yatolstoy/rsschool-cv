@@ -15,20 +15,20 @@ I like take online courses and **improve my skills**.
 I have some work experience in banking, retail and advertize. In fact, this is non-programming experience.
 But, **I gained programming experience at the current place of work**.
 
-So, I often decide **automatization tasks** in travel agency. That just a some examples of tasks:
+So, I often decide **automatization tasks** in travel agency. That just a some examples of tasks:  
 1. Write scripts on PHP for server-side automatization, like:
 1.1. Adding new tasks in AMOCRM by API.
 1.2. Change statuses leads in AMOCRM.
 1.3. Check doubles of contacts in CRM system.
 
-2. Write scripts on **JavaScript** for client-side automatization, like:
-2.1. Prohibition editing transactions at the stage
-2.2. Show price lead in another valuta (USD, EUR, BYN, RUB)
-2.3. Make button, what get lead and take it some manager.
+2. Write scripts on **JavaScript** for client-side automatization, like:  
+2.1. Prohibition editing transactions at the stage  
+2.2. Show price lead in another valuta (USD, EUR, BYN, RUB)  
+2.3. Make button, what get lead and take it some manager.  
 
-3. Write scripts for Google Spreadsheets for display statistics:
-3.1. By sales
-3.2. Expenses by marketing channels
+3. Write scripts for Google Spreadsheets for display statistics:  
+3.1. By sales  
+3.2. Expenses by marketing channels  
 
 ## Skills:
 I know the basics:
